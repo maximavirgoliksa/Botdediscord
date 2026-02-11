@@ -97,4 +97,4 @@ async def ruleta(ctx, apuesta: int):
 
 keep_alive()
 bot.run(os.getenv('DISCORD_TOKEN'))
-```
+
